@@ -28,6 +28,14 @@ This project was done in Ubuntu 18 LTS and following are the components
 
 This project is the output from the Simulator . Before the simulator is started:
 
+<img src= "https://github.com/rameshbaboov/CarND-PID-Control-Project/blob/master/img/1.JPG" width = 480>
+<img src= "https://github.com/rameshbaboov/CarND-PID-Control-Project/blob/master/img/2.JPG" width = 480>
+<img src= "https://github.com/rameshbaboov/CarND-PID-Control-Project/blob/master/img/3.JPG" width = 480>
+<img src= "https://github.com/rameshbaboov/CarND-PID-Control-Project/blob/master/img/4.JPG" width = 480>
+<img src= "https://github.com/rameshbaboov/CarND-PID-Control-Project/blob/master/img/5.JPG" width = 480>
+<img src= "https://github.com/rameshbaboov/CarND-PID-Control-Project/blob/master/img/6.JPG" width = 480>
+
+
 
 # Algorithm:
 
@@ -128,11 +136,4 @@ around the track.                                 be considered unsafe (if human
 
 
 Car remains in the road. Sometimes, it goes off road but majority of the time it reamins and does
-not wheer off the road. Attached video with the output.
-
-
-
-
-
-
-                                                        
+not wheer off the road. Attached video with the output.                                       
